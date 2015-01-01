@@ -1,0 +1,567 @@
+{
+ name: 'HiTea 茶不道',
+ address: '575 Yonge Street',
+ special: '10% OFF',
+ phone: '647-351-5537',
+ location: {Latitude : 43.6655581, Longitude : -79.3847071}
+},
+{
+ name: 'E-tea奶茶店',
+ address: '414 Dundas St. West',
+ special: '10% OFF',
+ phone: '416-800-7171',
+ location: {Latitude : 43.6537169, Longitude : -79.3950274}
+},
+{
+ name: 'Eskimo Tea House & Dessert',
+ address: '336 Dundas Street W.',
+ special: '10% OFF',
+ phone: '647-341-0393',
+ location: {Latitude : 43.6542373, Longitude : -79.3925858}
+},
+{
+ name: 'Fire & Ice',
+ address: '25 Cochrane Drive',
+ special: '10% OFF',
+ phone: '905-947-1900',
+ location: {Latitude : 43.8491073, Longitude : -79.3612909}
+},
+{
+ name: 'Kuni Sushi Ya',
+ address: '20 Baldwin Street',
+ special: '10% OFF(Lunch Special除外)',
+ phone: '416-260-3188',
+ location: {Latitude : 43.6562002, Longitude : -79.3931117}
+},
+{
+ name: 'MODO尚果茶屋',
+ address: '482 Dundas St. W',
+ special: '10% OFF',
+ phone: '647-748-6601',
+ location: {Latitude : 43.6532394, Longitude : -79.3971276}
+},
+{
+ name: 'Pizza Nova',
+ address: '267 College Street',
+ special: '10% OFF(Slided Pizza除外)',
+ phone: '416-889-2932',
+ location: {Latitude : 43.6576695, Longitude : -79.3995627}
+},
+{
+ name: 'Sushi World',
+ address: '281 College Street',
+ special: '10% OFF(Lunch Special除外)',
+ phone: '416-928-2936',
+ location: {Latitude : 43.657694, Longitude : -79.4007857}
+},
+{
+ name: 'Tea Dynasty',
+ address: '674 Yonge Street',
+ special: '15% OFF',
+ phone: '416-855-0820',
+ location: {Latitude : 43.6673274, Longitude : -79.3857008}
+},
+{
+ name: 'Tea Shop 168',
+ address: '768 Yonge Street',
+ special: '10% OFF (Special drink and food除外)',
+ phone: '416-546-8168',
+ location: {Latitude : 43.6696345, Longitude : -79.3866541}
+},
+{
+ name: 'Top Sushi',
+ address: '185 College Street',
+ special: '免税',
+ phone: '416-786-1111',
+ location: {Latitude : 43.6588013, Longitude : -79.3944347}
+},
+{
+ name: 'Utea',
+ address: '2 Walmer Road',
+ special: '10% OFF特价菜除外',
+ phone: '647-244-8478',
+ location: {Latitude : 43.6664265, Longitude : -79.4054249}
+},
+{
+ name: 'Wing House and Sports Bar',
+ address: '630 Danforth Avenue',
+ special: '10% OFF',
+ phone: '416-462-9988',
+ location: {Latitude : 43.6787854, Longitude : -79.3455253}
+},
+{
+ name: 'Yummy Yummy Dumplings',
+ address: '79 Huron Street',
+ special: '10% OFF',
+ phone: '647-847-6635',
+ location: {Latitude : 43.6537468, Longitude : -79.3962904}
+},
+{
+ name: '伯爵名宴',
+ address: '1033 Bay Street',
+ special: '10% OFF',
+ phone: '416-923-8784',
+ location: {Latitude : 43.6661656, Longitude : -79.3873247}
+},
+{
+ name: '川味堂',
+ address: '668 Sliver Star Blvd, Unit R202',
+ special: '9.3折',
+ phone: '416-916-8383',
+ location: {Latitude : 43.822589, Longitude : -79.299781}
+},
+{
+ name: '富来小厨',
+ address: '343 Spadina Avenue',
+ special: '10% OFF',
+ phone: '416-591-2188',
+ location: {Latitude : 43.6551453, Longitude : -79.3986533}
+},
+{
+ name: '华北美食',
+ address: '476 Dundas St. West',
+ special: '5% OFF',
+ phone: '416-591-6880',
+ location: {Latitude : 43.6533156, Longitude : -79.396884}
+},
+{
+ name: '皇朝',
+ address: '1100 Burnhamthorpe Rd. Unit 18',
+ special: '10% OFF',
+ phone: '905-949-1988',
+ location: {Latitude : 43.5697543, Longitude : -79.6616849}
+},
+{
+ name: '九龙海鲜酒家',
+ address: '5 Baldwin Street',
+ special: '10% OFF',
+ phone: '416-977-3773',
+ location: {Latitude : 43.6561948, Longitude : -79.3924991}
+},
+{
+ name: '聚春园',
+ address: '434 Dundas St W',
+ special: '10% OFF',
+ phone: '647-352-6888',
+ location: {Latitude : 43.6534693, Longitude : -79.395545}
+},
+{
+ name: '口口香饺子馆',
+ address: '79 Huron St.',
+ special: '10% OFF 3.99特价菜除外',
+ phone: '416-340-7372',
+ location: {Latitude : 43.6537468, Longitude : -79.3962904}
+},
+{
+ name: '龙叙轩',
+ address: '472 Dundas St. West',
+ special: '10% OFF',
+ phone: '416-971-8885',
+ location: {Latitude : 43.6533122, Longitude : -79.3968442}
+},
+{
+ name: '绿之林',
+ address: '4350 Steels Ave, E Unit F5-7',
+ special: '10% OFF',
+ phone: '905-477-6933',
+ location: {Latitude : 43.8254466, Longitude : -79.3050432}
+},
+{
+ name: '满庭芳',
+ address: '484 Dundas St West',
+ special: '10% OFF',
+ phone: '416-217-0167',
+ location: {Latitude : 43.6532248, Longitude : -79.3972469}
+},
+{
+ name: '强记鸡粥',
+ address: '3300 Midland Ave. Unit 41',
+ special: '10% OFF',
+ phone: '416-292-800',
+ location: {Latitude : 43.8068505, Longitude : -79.288695}
+},
+{
+ name: '上楼餐馆',
+ address: '436 Dundas St.W 2nd Floor',
+ special: '10% OFF',
+ phone: '647-342-6388',
+ location: {Latitude : 43.653466, Longitude : -79.3955608}
+},
+{
+ name: '糖记',
+ address: '280 Spadina Ave.',
+ special: '15% OFF',
+ phone: '647-969-8881',
+ location: {}
+},
+{
+ name: '天仁茗茶 TenRen’s Tea',
+ address: '454 Dundas Street. W',
+ special: '10% OFF',
+ phone: '416-598-7872',
+ location: {Latitude : 43.6533359, Longitude : -79.3961871}
+},
+{
+ name: 'Scarborough Town Center',
+ address: '',
+ special: '10% OFF',
+ phone: '416-296-9882',
+ location: {}
+},
+{
+ name: 'Pacific Mall',
+ address: '',
+ special: '10% OFF',
+ phone: '905-305-9806',
+ location: {}
+},
+{
+ name: 'Yorkdale Center',
+ address: '',
+ special: '10% OFF',
+ phone: '416-782-8288',
+ location: {}
+},
+{
+ name: 'Fairview Mall',
+ address: '',
+ special: '10% OFF',
+ phone: '416-493-7898',
+ location: {}
+},
+{
+ name: 'Square One',
+ address: '',
+ special: '10% OFF',
+ phone: '905-276-2188',
+ location: {}
+},
+{
+ name: '味千拉面',
+ address: '332 Spadina Ave.',
+ special: '饺子三只',
+ phone: '416-977-8080',
+ location: {Latitude : 43.6538953, Longitude : -79.3985404}
+},
+{
+ name: 'West East Rest Café',
+ address: 'St.Joseph Street (1001 Bay楼下）',
+ special: '10% OFF，Daily Special除外',
+ phone: '416-323-2850',
+ location: {}
+},
+{
+ name: '西北楼',
+ address: '240 Alton Tower Circle, Unit 110',
+ special: '10% OFF',
+ phone: '647-886-3598',
+ location: {Latitude : 43.8264886, Longitude : -79.2772729}
+},
+{
+ name: '小沙田食家',
+ address: '353 Spadina Ave.',
+ special: '10% OFF',
+ phone: '416-596-8787',
+ location: {}
+},
+{
+ name: '新豪京',
+ address: '416 Spadina Ave',
+ special: '10% OFF',
+ phone: '416-455-8132',
+ location: {Latitude : 43.6562887, Longitude : -79.3995069}
+},
+{
+ name: '一品居',
+ address: '369 Spadina Ave',
+ special: '10% OFF',
+ phone: '416-260-9988',
+ location: {Latitude : 43.6557679, Longitude : -79.3990251}
+},
+{
+ name: '中华经典包子铺',
+ address: '536 Dundas Street West, Toronto, ON M5T 1H3',
+ special: '10% OFF',
+ phone: '416-299-9011',
+ location: {Latitude : 43.652802, Longitude : -79.3987051}
+},
+{
+ name: 'Bravo Hair',
+ address: '60 Brian Harrison Way, Unit 102',
+ special: '10% OFF，现金免税',
+ phone: '647-349-5889',
+ location: {Latitude : 43.7733125, Longitude : -79.2587285}
+},
+{
+ name: '麗康行 N&B Health Products Inc',
+ address: '7010 Warden Ave Unit.16',
+ special: '10% 个别产品除外 例如，奶粉，不接受打折',
+ phone: '647-982-9998',
+ location: {Latitude : 43.8203984, Longitude : -79.3255037}
+},
+{
+ name: '大明茶餐厅',
+ address: '8392 Kennedy Road Unit 4815, Markham',
+ special: '10% OFF',
+ phone: '905-305-0770',
+ location: {Latitude : 43.8613072, Longitude : -79.3047881}
+},
+{
+ name: '王莉私房菜',
+ address: '3225 Hwy 7 E, Markham',
+ special: '10% OFF',
+ phone: '905-604-7166',
+ location: {}
+},
+{
+ name: '三六九上海小吃',
+ address: '8380 Kennedy Rd c8, Markham',
+ special: '送小菜.四选一 豆干蒜，付皮，豆沙包，豆沙煎饼',
+ phone: '905-305-7713',
+ location: {}
+},
+{
+ name: '将 Syogun Sushi Bar',
+ address: '8261 Woodbine Avenue, Markham, ON L3R, Canada',
+ special: '10% OFF',
+ phone: '905-305-8990',
+ location: {}
+},
+{
+ name: '天皇名粥',
+ address: '10 Ravel Rd, Toronto ON M2H 1S8',
+ special: '10% OFF',
+ phone: '416-493-8222',
+ location: {}
+},
+{
+ name: 'The Clubhouse Sandwich Shop',
+ address: '455 Spadina Avenue',
+ special: '10% OFF Excluding Oysters & Fish Sandwich',
+ phone: '647-502-1291',
+ location: {}
+},
+{
+ name: '私房二少美点',
+ address: '416 Spadina Ave',
+ special: '10% OFF',
+ phone: '416-593-4788',
+ location: {}
+},
+{
+ name: '越南美食 PHO KING',
+ address: '3636 Steeles Ave. E Unit 110-111',
+ special: '10% OFF',
+ phone: '905-940-6888',
+ location: {}
+},
+{
+ name: 'Sakura Japanese Cuisine',
+ address: '94 Bloor St. West',
+ special: '周一到周四下午4点到晚上10点 享有付现金10%off 的优惠 每天特价午餐付现金 享有5%off的优惠',
+ phone: '647-350-1688',
+ location: {}
+},
+{
+ name: 'One Hour',
+ address: '435 Spadina Ave',
+ special: '10% OFF',
+ phone: '(647) 346-2172',
+ location: {}
+},
+{
+ name: '大碗香',
+ address: '8362 Kennedy road, Markham',
+ special: '10% OFF',
+ phone: '905-470-8188',
+ location: {Latitude : 43.860397, Longitude : -79.303184}
+},
+{
+ name: '老房子',
+ address: '3 Glen Watford Dr., Scarborough',
+ special: '10% OFF',
+ phone: '416-298-8986',
+ location: {}
+},
+{
+ name: '麻辣空间',
+ address: '8362 Kennedy Rd. Unit A3 Markham',
+ special: '10% OFF',
+ phone: '289-859-1566',
+ location: {}
+},
+{
+ name: 'Joy Station',
+ address: '8261 Woodbine Ave Unit6 Markham',
+ special: '10% OFF',
+ phone: '905-604-3293',
+ location: {}
+},
+{
+ name: '一本料理Ichimoto',
+ address: '360 Hwy 7 East,Unit 15-16',
+ special: '10% OFF Cash Only',
+ phone: '905-886-3288',
+ location: {}
+},
+{
+ name: '井上拉面屋',
+ address: '60 Highway 7 East, unit 3',
+ special: '任何拉面送春卷',
+ phone: '905-882-8802',
+ location: {}
+},
+{
+ name: '百饺园(Dumpling Queen)',
+ address: '649 Yonge St.',
+ special: '',
+ phone: '647-3443-353',
+ location: {}
+},
+{
+ name: 'Beau Tea Café',
+ address: '648 Yonge St.',
+ special: '10% OFF',
+ phone: '416-925-4848',
+ location: {}
+},
+{
+ name: '井井屋',
+ address: '3623 Hwy 7 E., Unit 102',
+ special: '10% OFF, 外卖除外',
+ phone: '647-967-0000',
+ location: {}
+},
+{
+ name: 'Canteen 中西美食',
+ address: '280 Spadina Ave, second floor',
+ special: '10% OFF（不送水果）',
+ phone: '416-593-6888',
+ location: {}
+},
+{
+ name: '德庄火锅',
+ address: '8339 Kennedy Rd Markham',
+ special: '两人以上用后送小菜',
+ phone: '905-604-8995',
+ location: {}
+},
+{
+ name: 'EE洗车店',
+ address: '152 BULLOCK DRIVE, UNIT 11',
+ special: 'UTCSSA会员特价',
+ phone: '905-201-1116',
+ location: {}
+},
+{
+ name: 'Lee’s Clinics 针灸诊所',
+ address: '360 Bloor St. W. Suite 401',
+ special: '免费针灸',
+ phone: '647-347-5591',
+ location: {}
+},
+{
+ name: 'Popular Driving School 大众驾校',
+ address: '4002 Sheppard Ave. E',
+ special: '全科10% OFF',
+ phone: '416-299-6880',
+ location: {}
+},
+{
+ name: '易通驾校(InspirationDriving School)',
+ address: '1021 Gerrard S4#3',
+ special: '加入我校有10%OFF',
+ phone: '416-880-8506',
+ location: {}
+},
+{
+ name: 'Printorium打印店',
+ address: '255 College St.',
+ special: '10% OFF',
+ phone: '416-792-4731',
+ location: {}
+},
+{
+ name: '动感发型设计',
+ address: '222 Spadina Ave., #221',
+ special: 'Up to 20% OFF',
+ phone: '647-898-1188',
+ location: {}
+},
+{
+ name: '卢勇牙医诊所',
+ address: '250 Dundas St. W #105',
+ special: 'Free Dental Care',
+ phone: '416-916-8811',
+ location: {}
+},
+{
+ name: 'Justin Studio发型屋',
+ address: '锦绣中华一楼',
+ special: '1）首次光临：剪发$5 off, 其他项目（烫、染、护） 八五折（15% off） 2）再次光临：烫、染、护 一律九折（10% off）的优惠',
+ phone: '416-858-2317',
+ location: {}
+},
+{
+ name: 'Kamiya Japanese Style Hair Salon',
+ address: '211 Yonge Street, unit 10',
+ special: '15％的全年会员discount 包括所有美发服务',
+ phone: '416-916-1868',
+ location: {}
+},
+{
+ name: 'Doctor Ren 牙医诊所',
+ address: 'Suite 608, 94 cumberland St',
+ special: '20%的折扣（矫正牙齿除外）',
+ phone: '416-967-0100',
+ location: {}
+},
+{
+ name: '禅静轩',
+ address: '280 West Beaver Creek Road unit 27 Richmond Hill',
+ special: '凭会员卡打9折',
+ phone: '905-771-0101',
+ location: {Latitude : 43.8434746, Longitude : -79.3876864}
+},
+{
+ name: '大皇power king',
+ address: '8360 Kennedy Road',
+ special: '凭会员卡打9折',
+ phone: '905-948-1888',
+ location: {Latitude : 43.8593798, Longitude : -79.3043375}
+},
+{
+ name: '一番sushi',
+ address: '8360 Kennedy Road',
+ special: '凭会员卡打9折',
+ phone: '905-474-3677',
+ location: {Latitude : 43.8593798, Longitude : -79.3043375}
+},
+{
+ name: '晋缘noodle station刀削面',
+ address: '2347 Kennedy Road #106',
+ special: '凭会员卡打9折',
+ phone: '416-335-6538',
+ location: {Latitude : 43.783936, Longitude : -79.2885094}
+},
+{
+ name: '惠宾饭庄',
+ address: '440 Spadina Ave',
+ special: '凭会员卡打9折',
+ phone: '647-889-3313',
+ location: {Latitude : 43.6570083, Longitude : -79.399969}
+},
+{
+ name: '糖记甜品',
+ address: '280 Spadina Ave',
+ special: '凭会员卡打9折',
+ phone: '',
+ location: {}
+},
+{
+ name: 'B-boss KTV',
+ address: '283 Spadina Ave',
+ special: '凭会员卡打9折',
+ phone: '647-349-8858',
+ location: {Latitude : 43.6527616, Longitude : -79.3976924}
+},
